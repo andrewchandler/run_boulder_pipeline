@@ -1,0 +1,129 @@
+<!DOCTYPE HTML>
+<!--
+	Run Boulder Athletic Club
+	Coaching and training plans for runners.
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-43325103-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+		<title>Run Boulder Athletic Club - Coaching and training for runners.</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body class="landing">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+ <h1><a href="index.html#why">Run Boulder Athletic Club - Home</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.html#why">Home</a></li>
+                                                                                        <li><a href="about.html">About Kathy</a></li>
+                                                                                        <li><a href="contact.html">Contact</a></li>
+                                                                                        <li><a href="grouptraining.html">Group Training</a></li>
+                                                                                        <li><a href="meettheteam.html">Meet the team</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<h2>Run Boulder Athletic Club</h2>
+							<p>Competitive Running Group in Boulder,Colorado.<br />
+						</div>
+						<a href="#why" class="more scrolly">More info</a>
+					</section>
+
+				<!-- One -->
+					<section id="why" class="wrapper style1 special">
+						<div class="inner">
+							<header class="major">
+								<h2>Why Kathy might be the right coach for you?</h2>
+								<p>My coaching experience includes assistant coach at the University of Wisconsin, Madison and Stanford University. I currently coach the Run Boulder Athletic Club in Colorado.</p>
+							</header>
+						</div>
+					</section>
+
+				<!-- Two -->
+					<section id="two" class="wrapper alt style2">
+						<section class="spotlight">
+							<div class="image"><img src="images/kathyathens.jpg" alt="" /></div><div class="content">
+								<h2>Let my experience<br />
+								help you</h2>
+								<p>I was a professional athlete for 20 years before I became a coach.</p>
+								<p>I competed in the NCAA's, Olympics, World Championships, World Cross Country... pretty much everything you can do in running.</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/IMG_1595.jpg" alt="" /></div><div class="content">
+
+<h2>Check out my testimonials and meet the team..</h2><a href="meettheteam.html">
+
+<!--							
+								<h2>Check out my testimonials and meet the team..</h2>
+	<p>I have many happ.</p>
+-->
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/teaching.jpeg" alt="" /></div><div class="content">
+								<h2>Experience and certification</h2>
+								 <p>I have Level 3 USATF certification, this is the highest level of the USATF Coaching Education Program. It prepares coaches with a rigorous scientific base that is applied as a multidisciplinary approach to coaching high level athletes. In conjunction with the USATF Level 3 I attended the IAAF Academy School that provided me with the highest international coaching certification.</p>
+							         <p>I am a USATF Coaching Education Instructor teaching coaching education across North America.</p>
+
+							         <P>My coaching experience includes assistant coach at the University of Wisconsin, Madison and Stanford University. I currently coach the Run Boulder Athletic Club in Colorado.</p>
+<p>I do still coach private and remote clients, more information can be found about that at <a href="http://www.kathy-butler.com" target="_blank"><b>www.kathy-butler.com</b>.</a>
+
+
+                                                        </div>
+						</section>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+<ul class="icons">
+                                                        <li><a href="https://twitter.com/runboulderac" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+                                                        <li><a href="https://www.facebook.com/kathybutlerruncoaching" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+                                                        <li><a href="https://www.instagram.com/runboulderac" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+                                                        <li><a href="contact.html" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+                                                </ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+	</body>
+</html>
